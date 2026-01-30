@@ -23,13 +23,14 @@ npm install
 
 # Start the app
 npm run dev
+```
 
 🛠 Tech Stack & Why
-React.js	Fast, component-based UI rendering and state management.
-Formik + Yup	Smooth form handling with validation for multi-step inputs.
-Tailwind CSS	Quick, responsive styling with a clean, modern look.
-useState / Props	Lightweight state management for multi-step flow.
-Lucide React	Consistent, minimalistic icons across the app.
+React.js Fast, component-based UI rendering and state management.
+Formik + Yup Smooth form handling with validation for multi-step inputs.
+Tailwind CSS Quick, responsive styling with a clean, modern look.
+useState / Props Lightweight state management for multi-step flow.
+Lucide React Consistent, minimalistic icons across the app.
 
 📌 Current Features
 
@@ -54,4 +55,3 @@ Step indicator for smooth navigation
 Tailwind colors with soft blue highlights for clarity and accessibility
 
 Responsive typography and spacing for mobile-first experience
-```
