@@ -15,7 +15,7 @@ A sleek, step-by-step hotel booking app built with **React.js** and **Tailwind C
 
 ```bash
 # Clone the repo
-git clone <repository-url>
+git clone [repo-link](https://github.com/BaharAlekberova05/hotel-booking-system.git)
 cd hotel-booking-system
 
 # Install dependencies
